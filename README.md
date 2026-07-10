@@ -3,7 +3,7 @@ Aegis is a production-inspired financial crime intelligence platform that combin
 
 ---
 
-## ✨ Features
+## Features
 
 * Real-time transaction ingestion using Apache Kafka
 * Rule-based and AI-assisted suspicious activity detection
