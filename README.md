@@ -34,7 +34,7 @@ Aegis follows a **modular monolith** architecture, keeping the codebase simple, 
          +-------------------+-------------------+
          |                   |                   |
          v                   v                   v
-    PostgreSQL          Apache Kafka         Neo4j Graph
+    PostgresSQL          Apache Kafka         Neo4j Graph
          |                   |                   |
          +-------------------+-------------------+
                              |
@@ -105,13 +105,13 @@ Planned milestones include:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and discussions are welcome. Feel free to open an issue or submit a pull request.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the Apache-2.0 License.
 
